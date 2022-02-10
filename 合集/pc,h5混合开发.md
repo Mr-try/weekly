@@ -39,7 +39,6 @@ export function patchRoutes({ routes }: any) {
   }
 }
 ```
-
 ![](./_image/2022-02-09/2022-02-09-13-10-16@2x.png)
 
 这样当访问/user 时候，不管是 pc 还是 h5渲染的是 user/index.tsx，
