@@ -20,8 +20,10 @@ date: 2022-02-15 16:34
 - 接上，使用 axios 时进行类型推导时，可能会多一层 data 包裹体
 - 结合 userRequest(从 umi 导入的类型推导有 bug，建议直接从 ahook 导入)
 
-### 部分 demo处理情况
+### 部分 demo
 - 生成 api 回调 demo
 ![](./_image/2022-02-15/2022-02-15-16-58-30@2x.jpg)
-- 使用 axios 封装 request 进行类型推导
+- 使用 axios 封装 request 进行类型推导 demo
 ![](./_image/2022-02-15/2022-02-15-16-51-08@2x.jpg)
+- 使用 demo:也可以单独使用，即 fnName(xxx).then(xxxx)
+![](./_image/2022-02-15/2022-02-15-17-02-43@2x.png)
