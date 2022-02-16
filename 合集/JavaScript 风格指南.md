@@ -4,7 +4,7 @@ date: 2022-02-16 16:12
 ---
 
 # 代码整洁的 JavaScript
-
+来源 [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 ## 目录
 
   1. [简介](#简介)
