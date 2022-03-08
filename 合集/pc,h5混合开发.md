@@ -7,7 +7,7 @@ date: 2022-02-09 10:39
 1. 除开布局差异，通用性接口和逻辑可复用行较高
 2. 部分页面布局 pc 和 h5 有较高的通用性的时候，可以使用用一个页面
 3. 基础脚手架通用
-具体实施以 umiJs 为例子（亦或是只考虑 index.tsx or index.h5.tsx）
+具体实施以 umiJs 为例子（亦或是只考虑 index.tsx or index.h5.tsx）<br />
 /**
  * 渲染优先级逻辑 
  * pc端：index.pc > index
