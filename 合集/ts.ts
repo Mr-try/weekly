@@ -96,3 +96,31 @@ type Simplify<T> = Pick<T, keyof T>;
 type C = Simplify<B>;
 const c:C={bar:1,foo:'xxx'}
 
+
+// demo8
+let defaultState = {
+  foo: 7,
+  bar: 'hello'
+};
+
+type State = typeof defaultState;
+
+let nextState: State = {
+  foo: 1,
+  bar: 'world'
+};
+
+// demo9
+function getState() {
+  return {
+      foo: 7,
+      bar: 'hello'
+  };
+}
+
+type State2 = ReturnType<typeof getState>;
+
+let nextState2: State2 = {
+  foo: 1,
+  bar: 'world'
+};
