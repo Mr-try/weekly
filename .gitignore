@@ -21,3 +21,4 @@ Thumbs.db*
 /__wechat.json
 /*.sqlite3
 .db/
+.history
