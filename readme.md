@@ -9,6 +9,7 @@
 - [JavaScript 风格指南](./合集/JavaScript风格指南.md)
 - [ts 的几个 demo](./合集/ts.md)
 - [小程序踩坑记录](./合集/小程序踩坑.md)
+- [ezt cli 开发流程](./合集/ezt开发记录.md)
 
 ## 2022 年
 
