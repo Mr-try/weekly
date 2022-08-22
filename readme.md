@@ -68,3 +68,5 @@
 
 - [第三十二周:RN-Skia,zustand](./2022/第三十二周.md)
 - [第三十三周:emoji 组合,SaaS,打结](./2022/第三十三周.md)
+- [第三十四周:Bun,FauxPilot,million,affine](./2022/第三十四周.md)
+- [第三十五周:](./2022/第三十五周.md)
