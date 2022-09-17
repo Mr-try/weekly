@@ -5,7 +5,6 @@
 ## 思考与记录
 
 - [关于 swagger](./合集/swagger.md)
-- [响应式开发一定要新开项目么](./合集/pc,h5混合开发.md)
 - [JavaScript 风格指南](./合集/JavaScript风格指南.md)
 - [ts 的几个 demo](./合集/ts.md)
 - [小程序踩坑记录](./合集/小程序踩坑.md)
