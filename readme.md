@@ -84,4 +84,4 @@
 - [第四十二周:type-challenges](./2022/第四十二周.md)
 - [第四十三周:sharing、steampipe、obsidian、mifi、satori](./2022/第四十三周.md)
 - [第四十四周:Turbopack、SWC](./2022/第四十四周.md)
-- [第四十五周:](./2022/第四十五周.md)
+- [第四十五周:okso](./2022/第四十五周.md)
