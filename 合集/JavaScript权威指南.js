@@ -64,3 +64,17 @@ let Square = class {
 };
 
 new Square(3).area; // =>9
+
+function importScript(url) {
+  return new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.onload = () => {
+      resolve();
+    };
+    s.onerror = () => {
+      reject();
+    };
+    s.url = url;
+    document.head.append(s);
+  });
+}
