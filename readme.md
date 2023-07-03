@@ -26,3 +26,7 @@
 
 - [第六周:股票数据、taro echarts、carbonyl](./2023/6.md)
 - [第七周:poline](./2023/7.md)
+
+### 七月
+
+- [第二十八周:durves、SVG](./2023/8.md)
