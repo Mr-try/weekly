@@ -29,4 +29,4 @@
 
 ### 七月
 
-- [第二十八周:durves、SVG](./2023/8.md)
+- [第二十八周:TypeScript 5.2、durves、SVG](./2023/28.md)
