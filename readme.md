@@ -31,4 +31,5 @@
 
 - [第二十八周:TypeScript 5.2、durves、SVG](./2023/28.md)
 - [第二十九周:lexical、ChatLaw、React1s](./2023/29.md)
-- [第三十周:](./2023/30.md)
+- [第三十周:CSS In 2023、clarity](./2023/30.md)
+- [第三十一周:bear](./2023/31.md)
