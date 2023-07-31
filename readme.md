@@ -33,4 +33,4 @@
 - [第二十九周:lexical、ChatLaw、React1s](./2023/29.md)
 - [第三十周:CSS In 2023、clarity](./2023/30.md)
 - [第三十一周:bear、drawer](./2023/31.md)
-- [第三十二周:bear、drawer](./2023/32.md)
+- [第三十二周:shell-ai、DocHub](./2023/32.md)
