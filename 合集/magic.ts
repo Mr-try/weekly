@@ -24,5 +24,3 @@ let tony: PartialUser
 tom.age
 tony.age
 
-// demo3
-
