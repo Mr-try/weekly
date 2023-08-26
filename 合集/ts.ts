@@ -25,29 +25,29 @@ interface API {
   };
 }
 
-function get<URL extends keyof API>( url: URL, params: API[URL]['req']): Promise<API[URL]['res']> {
+function get<URL extends keyof API>(url: URL, params: API[URL]['req']): Promise<API[URL]['res']> {
   return fetch(url, { body: JSON.stringify(params) }).then(res => res.json());
 }
 
-get('/a', { name:'xxx'}).then(res => res.data1);
+get('/a', { name: 'xxx' }).then(res => res.data1);
 
 
 // demo3
 type AnimalType = 'cat' | 'dog' | 'frog';
 interface AnimalDescription { name: string, icon: string }
 const AnimalMap: Record<AnimalType, AnimalDescription> = {
-  cat: { name: '猫', icon: ' '},
+  cat: { name: '猫', icon: ' ' },
   dog: { name: '狗', icon: ' ' },
   frog: { name: '蛙', icon: ' ' }
 };
 
 // demo4
-interface Opt{
-  name:string,
-  id:number
+interface Opt {
+  name: string,
+  id: number
 }
-const mergeOptions = (options:Opt,patch:Partial<Opt>)=>{
-  return {...options,...patch}
+const mergeOptions = (options: Opt, patch: Partial<Opt>) => {
+  return { ...options, ...patch }
 }
 
 // demo5
@@ -90,11 +90,11 @@ interface A extends Omit<Base, 'foo'> {
 type B = Omit<Base, 'foo'> & {
   foo: string;
 };
-const b:B={bar:1,foo:'xxx'}
+const b: B = { bar: 1, foo: 'xxx' }
 
 type Simplify<T> = Pick<T, keyof T>;
 type C = Simplify<B>;
-const c:C={bar:1,foo:'xxx'}
+const c: C = { bar: 1, foo: 'xxx' }
 
 
 // demo8
@@ -113,8 +113,8 @@ let nextState: State = {
 // demo9
 function getState() {
   return {
-      foo: 7,
-      bar: 'hello'
+    foo: 7,
+    bar: 'hello'
   };
 }
 
