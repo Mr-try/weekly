@@ -46,5 +46,5 @@
 
 ### 九月
 - [第三十七周:EventSource、lightningcss、servicer、obsidian](./2023/37.md)
-- [第三十八周:忙于工作](./2023/38.md)
+- [第三十八周:入职感想](./2023/38.md)
 - [第三十九周:Expo、kr8s、Unit、v0.dev](./2023/39.md)
