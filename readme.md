@@ -18,7 +18,7 @@
 
 ### 八月
 
-1. [Web application framework](https://hono.dev/)
+1. [hono:Web application framework](https://hono.dev/)
 2. [CSS Inspiration -- CSS灵感](https://csscoco.com/inspiration/#/./init)
-3. [滚动视差工具](https://react-scroll-parallax.damnthat.tv/docs/intro)
-4. [好用的 Canvas 引擎](https://www.leaferjs.com/)
+3. [react-scroll-parallax:滚动视差工具](https://react-scroll-parallax.damnthat.tv/docs/intro)
+4. [leaferjs:好用的 Canvas 引擎](https://www.leaferjs.com/)
