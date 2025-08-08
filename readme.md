@@ -10,6 +10,7 @@
 
 ## 思考与记录
 
+- [虚拟列表打印与下载](./合集/虚拟列表打印下载.md)
 - [关于 swagger](./合集/swagger.md)
 - [JavaScript 风格指南](./合集/JavaScript风格指南.md)
 - [ts 的几个 demo](./合集/ts.md)
