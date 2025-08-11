@@ -153,3 +153,4 @@
 - [CSS Inspiration -- CSS灵感](https://csscoco.com/inspiration/#/./init)
 - [react-scroll-parallax:滚动视差工具](https://react-scroll-parallax.damnthat.tv/docs/intro)
 - [leaferjs:好用的 Canvas 引擎](https://www.leaferjs.com/)
+- [fesjs: vue3版本的 umi](https://fesjs.mumblefe.cn/)
