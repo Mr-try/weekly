@@ -154,3 +154,9 @@
 - [react-scroll-parallax:滚动视差工具](https://react-scroll-parallax.damnthat.tv/docs/intro)
 - [leaferjs:好用的 Canvas 引擎](https://www.leaferjs.com/)
 - [fesjs: vue3版本的 umi](https://fesjs.mumblefe.cn/)
+
+### 九月
+
+- [overtype:简约 Markdown 编辑器](https://overtype.dev/)
+- [Sidequest.js:Node.js 消息队列中间件](https://sidequestjs.com/)
+- [Effect:TS 函数式编程利器](https://effect.website/)
