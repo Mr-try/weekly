@@ -160,3 +160,5 @@
 - [overtype:简约 Markdown 编辑器](https://overtype.dev/)
 - [Sidequest.js:Node.js 消息队列中间件](https://sidequestjs.com/)
 - [Effect:TS 函数式编程利器](https://effect.website/)
+- [evilcharts:让数据可视化更生动](https://evilcharts.com/)
+- [embedpdf:JS PDF 查看器](https://www.embedpdf.com/)
