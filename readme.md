@@ -162,3 +162,4 @@
 - [Effect:TS 函数式编程利器](https://effect.website/)
 - [evilcharts:让数据可视化更生动](https://evilcharts.com/)
 - [embedpdf:JS PDF 查看器](https://www.embedpdf.com/)
+- [puckeditor:React 可视化编辑器](https://puckeditor.com/)
